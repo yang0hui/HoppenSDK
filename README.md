@@ -12,6 +12,6 @@ allprojects {
 ```
 ```
 dependencies {
-            implementation 'com.github.yang0hui:HoppenSdk:Tag'
+            implementation 'com.github.yang0hui:HoppenSdk:1.0.0'
 	     }
 ```
